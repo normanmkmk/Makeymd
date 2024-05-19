@@ -1,7 +1,7 @@
 html{
   max-width: 1000px;
   max-height: 80000px;
-  background-color: white;
+  background-color: black;
 }
 header img{
   margin-left: 250px;
@@ -24,7 +24,7 @@ header img{
 }
 #cover h1, h5 {
   block-size: 240px;
-  color: black;
+  color: white;
   text-align: center;
   margin-top: 100px;
   
